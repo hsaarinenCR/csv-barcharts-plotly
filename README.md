@@ -8,7 +8,7 @@
 
 ### How to use
 
-1. Install required libraries. Check out [Plotly getting started page.](https://plot.ly/python/getting-started/) Orca is needed for the static image files.
+1. Install required packages. Check out [Plotly getting started page.](https://plot.ly/python/getting-started/) Orca is needed for the static image files.
 
 2. Create a CSV file (see example below). It needs to have an ID column (could be easily modified to be something else as well) that's used for the image names.
 
