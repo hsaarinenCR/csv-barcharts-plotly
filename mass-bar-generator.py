@@ -53,5 +53,5 @@ for i in rowID:
 		#font=dict(family='Arial, Helvetica, sans-serif', size=24, color='#303030')
 		)
 
-	# Writes the image file(s), uses the unique ID as the file name. Uncomment below to generate images.
+	# Writes the image file(s), uses the unique ID as the file name.
 	fig.write_image("images/{0}.png".format(i))
