@@ -14,7 +14,7 @@
 
 3. Insert the CSV file location to line 10. You know, the line that says `data = pd.read_csv('data.csv')`
 
-4. Customize the things you want, ie. layout. See plotly documentation for more info.
+4. Customize the things you want, eg. layout. See plotly documentation for more info.
 
 5. `python mass-bar-generator.py`
 
