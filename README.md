@@ -1,4 +1,4 @@
-# CSV bar chart generator
+# Python CSV bar chart PNG generator
 
 ### **Input:** A CSV file with first column containing an unique ID that's used for indexing and file names.
 
